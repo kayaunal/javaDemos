@@ -9,10 +9,10 @@ public class Product {
         this.stockAmount=stockAmount;
         //Yukarıda overloading konusuna bir örnek var.
     }
-    //attribute | field
-public Product(){
+    public Product(){
 
-}
+    }
+    //attribute | field
     private int id;
     private String name;
     private String description;
